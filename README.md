@@ -35,12 +35,28 @@ Für einzelne Fächer (z.B. Grundlagen der Informatik) gibt es dort zusätzliche
 Die **Anmeldung** erfolgt über die Hochschuldaten.
 Über folgende URL ist die Seite zu erreichen: [StudIp](https://studip.hs-wismar.de)
 
+### Modul Hinweise 
+
+| Modul | Link | Beschreibung | 
+| ----- | ---- | ------------ |
+| Grundlagen der Informatik | [GdI](https://studip.hs-wismar.de/dispatch.php/course/overview?cid=f8a5c71a6ac18a33ca42a18874a9fd17) | Forum zum Austausch | 
+
+Alternativ kommt man zu dem GdI Kurs über *"Suche"* und dort den Betreff: *"FERNSTUDIUM - Grundlagen der Informatik / Theoretische Informatik"* eingeben und in den Kurs einschreiben.
+
 ## ILIAS 
 Bei ILIAS handelt es sich um einen Lernplattform für einzelne Kurse (z.B. Grundlagen der Informatik). 
 Hier ist es möglich einzelne Lernkontrollen durchzuführen. 
 
 Die **Anmeldung** erfolgt über die Hochschuldaten. 
 Über folgende URL ist die Seite zu erreichen: [ILIAS](https://ilias.hs-wismar.de/)
+
+### Modul Hinweise 
+
+| Modul | Link | Beschreibung | 
+| ----- | ---- | ------------ |
+| Grundlagen der Informatik | [GdI](https://ilias.hs-wismar.de/ilias.php?ref_id=5661&cmdClass=ilrepositorygui&cmdNode=7v&baseClass=ilrepositorygui) | Lernproben und Skriptextrate zu den jeweiligen Kapiteln | 
+
+Alternativ ist der GdI Katalog über *"Magazin"* -> *"Fakultät für Wirtschaftswissenschaften"* -> *"Wirtschaftsinformatik"* -> *"Theoretische Informatik / Grundlagen der Informatik"* zu erreichen.
 
 ## WiStu
 Eine weitere Austauschplattform zu myWINGS und dem Discord-Server. 
